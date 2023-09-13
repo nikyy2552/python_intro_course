@@ -1,0 +1,6 @@
+first_name = str(input('Please, enter your first name '))
+last_name = str(input('Please, enter your last name '))
+age = int(input('Please, enter your age '))
+gender = str(input('Please, enter your gender '))
+unique_id = int(input('Please, enter your unique id '))
+print('Your first name is ', first_name, '\nYour last name is ', last_name, '\nYour age is ', age, '\nYour gender is ', gender, '\nYour unique id is ',unique_id)
